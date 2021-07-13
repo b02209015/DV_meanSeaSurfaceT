@@ -1,7 +1,7 @@
 # Data Visualization - Mean Sea Surface Temperature
 
 ## Dataset
-- World Ocean Atlas (2013)
+- World Ocean Atlas Dataset (2013 Annual)
   - Source: NOAA
 
 ## Visualizations
